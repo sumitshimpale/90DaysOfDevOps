@@ -1,13 +1,13 @@
 [ User Browser ]
-        ↓
+        ->
  http://localhost:8080
-        ↓
+         ->
 [ Docker Host ]
-        ↓ (Port Mapping 80:80)
+        -> (Port Mapping 80:80)
 [ Nginx Container ]
-        ↓
+       ->
 [ Nginx Web Server ]
-        ↓
+        ->
  HTML Response
 
 

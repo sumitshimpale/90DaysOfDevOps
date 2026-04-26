@@ -8,9 +8,9 @@
 
 ```bash
 git --version
-<img width="667" height="137" alt="Screenshot 2026-04-26 111124" src="https://github.com/user-attachments/assets/72fb9099-a08e-4c3d-a538-d6f7542f7052" />
 
 `````
+<img width="667" height="137" alt="Screenshot 2026-04-26 111124" src="https://github.com/user-attachments/assets/72fb9099-a08e-4c3d-a538-d6f7542f7052" />
 
 
 

@@ -39,7 +39,9 @@ git init
 
 3. Check the status — read and understand what Git is telling you
 
-git status
+```
+`git status`
+```
 
 
 

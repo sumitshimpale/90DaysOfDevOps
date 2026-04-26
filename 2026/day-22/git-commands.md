@@ -2,8 +2,11 @@
 
 ### Task 1: Install and Configure Git
 
-1. Verify Git is installed on your machine
+# Task 1: Install and Configure Git
 
+## 1. Check Git installation
+
+```bash
 git --version
 
 

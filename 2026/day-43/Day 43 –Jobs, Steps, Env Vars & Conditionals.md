@@ -97,7 +97,8 @@ jobs:
         run: echo "Previous step failed"
 
       - name: Always Runs
-        run: echo "Workflow continues because continue-on-error is true"
+        run: |
+          echo "Workflow continues because continue-on-error is true"
 ```
 
 Smart Pipeline Workflow
